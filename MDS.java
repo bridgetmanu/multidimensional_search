@@ -1,15 +1,6 @@
-package bsm180003;
 
 import java.util.*;
 
-/** Starter code for P3
- *  @author someone
- */
-
-
-
-
-// If you want to create additional classes, place them in this file as subclasses of MDS
 
 public class MDS {
     // Add fields of MDS here
